@@ -1,4 +1,40 @@
 /*   Header Section   */
+body {
+    font-family: 'Roboto';
+}
+
+.nav-bar {
+    background: #1f2937;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    border: 2px solid red;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.nav-link {
+    border: 2px solid green;
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+.nav-link ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    gap: 24px
+}
 
 /*   Hero Section    */
 
