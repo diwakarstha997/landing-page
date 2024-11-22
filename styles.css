@@ -114,6 +114,24 @@ body {
 }
 
 /*   Quotation Section    */
+.quotation-container {
+    padding: 200px;
+    background-color: #e5e7eb;
+}
+
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f293793;
+}
+
+.quote-author {
+    font-size: 18px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: end;
+}
 
 /*   Signup Section   */
 
