@@ -173,3 +173,9 @@ body {
 
 
 /*   Footer Section    */
+.footer-text {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 30px;
+    text-align: center;
+}
